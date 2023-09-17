@@ -22,7 +22,11 @@ pip install -r requirements.txt
 ```python
 python manage.py runserver
 ```
-      
+### Drowsiness Detector
+![image](https://github.com/Nawap1/Udhyam_Kripples/assets/98960524/df606136-28f0-4b76-a767-a91104b83604)
+![image](https://github.com/Nawap1/Udhyam_Kripples/assets/98960524/dd805bae-711c-49e9-a2e0-3e516071b845)
+### Project demo
+[Watch Our Demo Video](https://www.youtube.com/watch?v=bm7AOvdBMOQ)
   ### Dependencies
   - Python 3.10
   - Numpy
