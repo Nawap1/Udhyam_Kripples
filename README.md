@@ -14,7 +14,15 @@ We intend to improve public transportation in Nepal using AI. We are aware of th
 - Realtime Bus Tracking
 
   ### Project Demo
-
+  1. First install all the required dependencies using requirements.txt file
+```python
+pip install -r requirements.txt
+```
+  2. Run the Django server
+```python
+python manage.py runserver
+```
+      
   ### Dependencies
   - Python 3.10
   - Numpy
@@ -42,7 +50,6 @@ We intend to improve public transportation in Nepal using AI. We are aware of th
   Leaflet, a popular javascript library used for interactive maps is used to predict the distance from point A to point B according to the route the bus took. An array of geolocation coordinates is kept as the bus moves using GPS, so the array from point A to point B is sliced, and then the leaflet is used to compute the distance from those coordinate arrays.
   
   ### Realtime Bus Tracking
-  Using GPS of the bus we are able to track the bus in real time using open street map (OSM) which will make it more accessable to the users.
-
+  Using GPS of the bus we are able to track the bus in real-time using an open street map (OSM) which will make it more accessible to the users.
   
-  
+  ![bus_tracking](https://github.com/Nawap1/Udhyam_Kripples/assets/98960524/b99313c7-655c-4671-910a-98dcc4c9bf26)
