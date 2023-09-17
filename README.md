@@ -1,5 +1,3 @@
-# The Kripples
-
 # Gantavya
 
 ## Project Idea:
